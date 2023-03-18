@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Entry
- * Return (1) indicates that an error occurred
+ * Return: Always 1 (indicating an error occurred)
  */
 int main(void)
 {
